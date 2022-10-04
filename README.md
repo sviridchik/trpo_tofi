@@ -54,4 +54,4 @@ MyTherapy Pill Reminder
 
 Макет бд (приблизительный)
  
-![image](https://user-images.githubusercontent.com/52378018/193805538-5f1273c8-e2c3-4444-803a-dc2de681c340.png)
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/52378018/193805837-4874f4fc-41b5-4e55-9d04-48badcd34bf5.png">
